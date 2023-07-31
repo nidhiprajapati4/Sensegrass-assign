@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.create-task form {
+  text-align: center;
+}
+
+.list-of-task {
+  margin-left: 8cm;
+  background-color: tan;
+  width: 7in;
+  text-align: center;
+}
+
+.task-details {
+  text-align: center;
+  background-color: lavenderblush;
+  width: 7.7in;
+  margin-left: 7cm;
+}
+
+.button {
+  padding-left: 50px;
+}
